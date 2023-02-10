@@ -1,0 +1,10 @@
+ipython
+ipywidgets
+numpy
+pandas
+scikit_learn
+matplotlib
+seaborn
+geopy
+folium
+plotly
